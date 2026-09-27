@@ -4,7 +4,10 @@ Installers for **TeacherTeacher Cam**, the free beta webcam app for online teach
 backgrounds, blur, green screen, props, drawing and a banner in ClassIn, Zoom, LingoAce and
 LingoStar. Everything runs on your own PC; nothing is uploaded.
 
-**Download:** see [Releases](../../releases) and pick the newest one.
+**Download the newest version:**
+https://github.com/abcteacherteacher/teacherteacher-cam-releases/releases/latest/download/TeacherTeacher-Cam-Setup.exe
+
+(This link always gives the newest release. Older versions: [Releases](../../releases).)
 
 If Windows shows "Windows protected your PC", click **More info**, then **Run anyway** (the beta
 isn't code-signed yet).
